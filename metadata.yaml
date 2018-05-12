@@ -1,9 +1,13 @@
 _repo: Babylon-Volume-3-of-3_47433
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Macnab, P.
     gutenberg_agent_id: '44312'
     url: http://www.gutenberg.org/2009/agents/44312
+covers:
+- cover_type: archival
+  image_path: 47433-h/images/cover.jpg
 creator:
   author:
     agent_name: Allen, Grant
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1452
     wikipedia: http://en.wikipedia.org/wiki/Grant_Allen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47433#Babylon-Volume-3-of-3
 gutenberg_issued: '2014-11-22'
 gutenberg_type: Text
 identifiers:
